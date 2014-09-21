@@ -1,4 +1,4 @@
-## The two functions 'makeCacheMatrix' and 'cacheSolve' are used to together to store, calculate & retrieve the inverse of a matrix.
+## The two functions 'makeCacheMatrix' and 'cacheSolve' are used together to store, calculate & retrieve the inverse of a matrix.
 ## The output of 'makeCacheMatrix' is used as an argument to 'cacheSolve'.
 
 ## Function 'makeCacheMatrix' take a matrix x as an argument.
